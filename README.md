@@ -1,1 +1,2 @@
-## Budget App
+# Budget App
+## JavaScript Project
